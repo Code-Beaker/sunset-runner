@@ -1,0 +1,9 @@
+{
+  "validatedAt": "2026-08-28",
+  "models": {
+    "heroCar": null,
+    "trafficCars": [],
+    "props": []
+  },
+  "notes": "No validated GLB assets are currently bundled, so runtime uses procedural fallback meshes."
+}
